@@ -7,6 +7,6 @@ print("My third commit");
 a=6
 b=7
 c=a+b
-print(c)
+print("Addition of a and b is ",c)
 
-
+print("Bye")
